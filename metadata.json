@@ -1,0 +1,10 @@
+{
+  "name": "CourSEN",
+  "description": "Application de livraison express à Casablanca pour coursiers et apporteurs de courses",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
